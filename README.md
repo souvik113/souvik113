@@ -1,40 +1,53 @@
 # 👋 Hi, I'm Souvik Manna
 
-Backend Developer working with Python, Node.js, IoT systems, and APIs.
+🚀 Full Stack Developer | Python | Flask | NodeJS | IoT | DevOps Learner
 
 ---
 
-## 🔍 About Me
+## 🔥 About Me
 
-## 🔍 About Me
-
-* 💻 Backend development using **Flask and Node.js (Express)**, including building APIs and running Flask-based web servers
-* 🌐 Hands-on experience with **ThingsBoard (IoT platform)** for real-time device monitoring
-* 📊 Working with **real-time telemetry, rule chains & automation**
-* 🔗 Building and integrating **REST APIs** (Exotel, external services)
-* 📈 Experience with **Zoho Analytics** for data visualization and reporting
-* ☁️ Basic exposure to **AWS services (Lambda)** and deployment concepts
-* 📦 Currently learning **Docker, CI/CD & AWS**
-* 🧠 Focused on debugging and solving real-world issues
+* 💻 Full-stack developer with strong backend expertise
+* ⚙️ Experienced in **Flask, Django, ExpressJS REST APIs**
+* 🌐 Working with **IoT platforms (ThingsBoard)**
+* 📊 Handling real-time telemetry, rule chains & automation
+* 📦 Exploring **DevOps (Docker, CI/CD, AWS basics)**
+* 🧠 Problem solver with strong debugging skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-Python, JavaScript, SQL
+### 💻 Languages
 
-**Backend:**
-Flask, Node.js (Express), REST APIs
+* Python
+* JavaScript
+* SQL
 
-**Frontend:**
-HTML, CSS, JavaScript
+### 🌐 Backend
 
-**Database:**
-PostgreSQL, MySQL, SQLite
+* Flask
+* Django
+* REST API Development
 
-**Tools & Platforms:**
-Git, GitHub, Postman, ThingsBoard, Zoho Analytics
+### 🎨 Frontend
+
+* HTML
+* CSS
+* JavaScript
+
+### 🗄️ Database
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+### ⚙️ Tools & Platforms
+
+* Git & GitHub
+* Postman
+* Docker (Learning)
+* ThingsBoard
+* Zoho Analytics
 
 ---
 
@@ -43,48 +56,58 @@ Git, GitHub, Postman, ThingsBoard, Zoho Analytics
 ### 🔹 IoT Monitoring System
 
 * Built using **ThingsBoard**
-* Real-time device monitoring and alert system
-* Rule chain automation for events
-* SMS & call integration using APIs
+* Real-time device monitoring
+* Rule chain automation for alerts
+* Integrated SMS & Call system using APIs
 
-### 🔹 Exotel SMS & Call Integration
+### 🔹 SMS & Call Automation (Exotel Integration)
 
-* Automated alert system based on device data
-* Dynamic message handling
-* API integration and error handling
+* Automated alerts based on device data
+* Dynamic message generation
+* API integration with error handling
 
 ### 🔹 Data Pipeline to Analytics
 
 * Sent IoT data to MySQL
 * Integrated with Zoho Analytics
-* Created dashboards for reporting
+* Created reporting dashboards
 
 ---
 
-## 📈 Currently Learning
+## 📈 What I'm Learning
 
-* Docker & containerization
-* AWS deployment basics
-* CI/CD concepts (Jenkins)
-* System design fundamentals
+* 🐳 Docker & Containerization
+* ☁️ AWS Deployment
+* 🔄 CI/CD Pipelines (Jenkins)
+* ⚡ System Design Basics
 
 ---
 
 ## 🧩 Problem Solving
 
-* Basic DSA (sorting, binary search)
-* String and array operations
-* Debugging production-level issues
+* Data Structures & Algorithms
+* Binary Search, Sorting
+* String & Array Manipulation
+* Debugging real-world production issues
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-* 📧 [mannasouvik843@gmail.com](mailto:mannasouvik843@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/souvik-manna-626764258
+* 📧 Email: [mannasouvik843@gmail.com](mailto:mannasouvik843@gmail.com) 
+* 💼 LinkedIn: https://www.linkedin.com/in/souvik-manna-626764258
+* 🌐 Portfolio: coming soon...
 
 ---
 
-## ⚡ Note
+## ⭐ GitHub Stats
 
-> I prefer building practical systems and learning by solving real problems.
+---
+
+## ⚡ Fun Fact
+
+> I love building real-world systems that actually solve problems 🚀
+
+---
+
+### 🔥 "Code. Debug. Improve. Repeat."
