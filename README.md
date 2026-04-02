@@ -27,18 +27,13 @@
 
 * Flask
 * Django
+* ExpressJS
 * REST API Development
-
-### 🎨 Frontend
-
-* HTML
-* CSS
-* JavaScript
 
 ### 🗄️ Database
 
-* PostgreSQL
 * MySQL
+* MongoDB
 * SQLite
 
 ### ⚙️ Tools & Platforms
@@ -46,10 +41,12 @@
 * Git & GitHub
 * Postman
 * Docker (Learning)
+* Kubernetes (K8s)
 * ThingsBoard
-* Zoho Analytics
+* Zoho
 
 ---
+
 
 ## 🚀 Projects
 
@@ -60,17 +57,41 @@
 * Rule chain automation for alerts
 * Integrated SMS & Call system using APIs
 
+---
+
 ### 🔹 SMS & Call Automation (Exotel Integration)
 
 * Automated alerts based on device data
 * Dynamic message generation
 * API integration with error handling
 
+---
+
 ### 🔹 Data Pipeline to Analytics
 
 * Sent IoT data to MySQL
 * Integrated with Zoho Analytics
 * Created reporting dashboards
+* Structured data flow for reporting systems
+
+---
+
+### 🔹 Device Configuration Web Server
+
+* Developed backend using **Flask / Node.js (Express)**
+* Handled device configuration and management
+* Built APIs for device-level operations
+* Processed and managed incoming device data
+
+---
+
+### 🔹 ERP & Automation (Zoho Integration)
+
+* Worked with **Zoho (ERP & Analytics)** for account-based data handling
+* Managed reporting and structured business data
+* Automated workflows using **Zoho (RPA-style automation)**
+* Integrated system data with analytics dashboards
+
 
 ---
 
@@ -79,15 +100,13 @@
 * 🐳 Docker & Containerization
 * ☁️ AWS Deployment
 * 🔄 CI/CD Pipelines (Jenkins)
-* ⚡ System Design Basics
+* ⚡ System Design
 
 ---
 
 ## 🧩 Problem Solving
 
 * Data Structures & Algorithms
-* Binary Search, Sorting
-* String & Array Manipulation
 * Debugging real-world production issues
 
 ---
@@ -106,7 +125,7 @@
 
 ## ⚡ Fun Fact
 
-> I love building real-world systems that actually solve problems 🚀
+> I love building real-worl systems that actually solve problems 🚀
 
 ---
 
