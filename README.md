@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Souvik Manna
 
-🚀 Full Stack Developer | Python | Flask | NodeJS | IoT | DevOps Learner
+🚀 Backend-focused Full Stack Developer | Python | Flask | NodeJS | IoT | DevOps Learner
 
 ---
 
