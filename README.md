@@ -6,10 +6,14 @@ Backend Developer working with Python, Node.js, IoT systems, and APIs.
 
 ## 🔍 About Me
 
-* 💻 Backend development using **Flask and Node.js (Express)**
-* 🌐 Hands-on experience with **ThingsBoard (IoT platform)**
+## 🔍 About Me
+
+* 💻 Backend development using **Flask and Node.js (Express)**, including building APIs and running Flask-based web servers
+* 🌐 Hands-on experience with **ThingsBoard (IoT platform)** for real-time device monitoring
 * 📊 Working with **real-time telemetry, rule chains & automation**
-* 🔗 Building and integrating **REST APIs**
+* 🔗 Building and integrating **REST APIs** (Exotel, external services)
+* 📈 Experience with **Zoho Analytics** for data visualization and reporting
+* ☁️ Basic exposure to **AWS services (Lambda)** and deployment concepts
 * 📦 Currently learning **Docker, CI/CD & AWS**
 * 🧠 Focused on debugging and solving real-world issues
 
