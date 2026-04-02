@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Souvik Manna
 
-Backend-focused Full Stack Developer working with Python, IoT systems, and APIs.
+Backend Developer working with Python, Node.js, IoT systems, and APIs.
 
 ---
 
 ## 🔍 About Me
 
-* 💻 Working mainly on backend using **Flask & Django**
+* 💻 Backend development using **Flask and Node.js (Express)**
 * 🌐 Hands-on experience with **ThingsBoard (IoT platform)**
-* 📊 Handling **real-time telemetry, rule chains & automation**
+* 📊 Working with **real-time telemetry, rule chains & automation**
 * 🔗 Building and integrating **REST APIs**
 * 📦 Currently learning **Docker, CI/CD & AWS**
 * 🧠 Focused on debugging and solving real-world issues
@@ -21,7 +21,7 @@ Backend-focused Full Stack Developer working with Python, IoT systems, and APIs.
 Python, JavaScript, SQL
 
 **Backend:**
-Flask, Django, REST APIs
+Flask, Node.js (Express), REST APIs
 
 **Frontend:**
 HTML, CSS, JavaScript
@@ -47,7 +47,7 @@ Git, GitHub, Postman, ThingsBoard, Zoho Analytics
 
 * Automated alert system based on device data
 * Dynamic message handling
-* Worked with API integration and error handling
+* API integration and error handling
 
 ### 🔹 Data Pipeline to Analytics
 
